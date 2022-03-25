@@ -1,0 +1,1 @@
+# Django ecommerce store with enhanced admin backend.
